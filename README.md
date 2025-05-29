@@ -16,3 +16,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayacicode&" alt="kayacicode" /></p>
 
+![snake gif](https://github.com/KayaciCode/KayaciCode/blob/output/github-snake-dark.svg)
+
